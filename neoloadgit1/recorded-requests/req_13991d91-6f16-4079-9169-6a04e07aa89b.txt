@@ -1,0 +1,11 @@
+GET http://54.236.48.117/jpetstore/shop/newOrder.shtml?confirmed=true HTTP/1.1
+Host: 54.236.48.117
+Proxy-Authorization: Basic ejAxNzI1Mzp0YW1pbDU1NQ==
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Referer: http://54.236.48.117/jpetstore/shop/newOrder.shtml
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+Cookie: JSESSIONID=3A348777AF96BD9996DFB87EA77A593A; BCSI-CS-e507c249e1c4333d=2
+

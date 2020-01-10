@@ -1,0 +1,13 @@
+# Project description file
+
+project.name=neoloadgit1
+project.version=6.6
+project.original.version=6.6
+product.name=NeoLoad
+product.original.name=NeoLoad
+product.original.version=7.0.0
+project.id=dca3fbc8-a38b-40f6-bb5a-536e415ef91f
+project.config.path=config.zip
+project.config.storage=ZIP
+team.server.enabled=false
+product.version=7.0.0
